@@ -1,8 +1,8 @@
 // {'daisy': 0, 'dandelion': 1, 'roses': 2, 'sunflowers': 3, 'tulips': 4}
 CLASSES = {
-  0: 'class0 - daisy',
-  1: 'class1 - dandelion',
-  2: 'class2 - roses',
+  0: 'class0 - alma',
+  1: 'class1 - mudd',
+  2: 'class2 - thinker',
   3: 'class3 - sunflowers',
   4: 'class4 - tulips',
 };
